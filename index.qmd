@@ -1,0 +1,22 @@
+---
+title: "Dr. Kev Hosford"
+image: media/profile.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kev-hosford-b98a29319/
+    - text: GitHub
+      href: https://github.com/kevhosford
+    - text: Email
+      href: mailto:kevin.hosford@ucc.ie
+html:
+  css: styles.css
+---
+
+Dr. Kevin (Kev) Hosford is a criminologist and critical social researcher with a focus on the intersections of technology, social justice, and healthcare access. Initially, her research explored how internet technologies enable ideological expression and digital activism. More recently, her work has centered on the structural violence, marginalization, and healthcare disparities experienced by transgender communities in Ireland, including the role of alternative pathways to gender-affirming care.
+
+Dr. Hosford is committed to community-engaged scholarship and is actively involved in advocacy as Chairperson and Director Secretary of Gender Rebels, a grassroots non-profit organization supporting the transgender community.

@@ -1,0 +1,145 @@
+---
+title: "Curriculum Vitae"
+image: media/profile.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+---
+
+**Dr. Kevin Hosford** (She/Her)\
+kevin.hosford@ucc.ie\
+[Gender Rebels](https://genderrebels.ie/) | [ORCID](https://orcid.org/) | [LinkedIn](https://www.linkedin.com/)
+
+## PROFILE
+
+Dr. Kevin (Kev) Hosford is a criminologist and critical social researcher dedicated to understanding the complex interplay between technology, social justice, and healthcare access. Initially, her research explores how internet technologies enable ideological expression and digital activism. More recently, her focus has shifted to the urgent issue of structural violence, marginalization, and healthcare disparities faced by transgender communities in Ireland. Specifically, she investigates the role of alternative pathways to gender-affirming care, such as telemedicine and online gray markets, and their impact on transgender individuals' sense of societal inclusion.
+
+Through her advocacy work with Gender Rebels, a grassroots non-profit organisation supporting the transgender community, she is deeply committed to community-engaged scholarship, fostering strong partnerships with grassroots $LGBTQI+$ organisations and working towards actionable and positive social change within the communities she studies.
+
+## EDUCATION
+
+**Doctorate of Philosophy**
+Department of Sociology and Criminology
+University College Cork
+2017-2024
+
+**BA Honors Degree in Criminology**
+Department of Sociology and Criminology
+University College Cork
+2014-2017
+
+**Fetac Lv5 in Journalism for the Digital Age**
+Coláiste Stiofáin Naofa
+Awarded Distinction
+2013-2014
+
+**Fetac Lv6 Advance Certificate Film and Television Production**
+St John's Central College, Sawmill Street. Cork
+2008-2010
+
+## EMPLOYMENT
+
+**Lecturer in Criminology**
+University College Cork - Department of Sociology and Criminology
+2021-Present
+* Temporary 3-year lecturer contract involving the preparation and teaching of multiple Criminology modules, including Criminological Theory, Criminal Justice Policy, Cybercrime, and Research Methods, delivered to both Undergraduate and Masters students.
+* Responsibilities also include the supervision of Undergraduate and Masters dissertation projects.
+* In addition to teaching, the role involves active engagement in academic research and participation in scholarly activities such as departmental seminars, academic conferences, and collaborative research initiatives.
+
+**Teaching Assistant**
+University College Cork - Department of Sociology and Criminology
+2017-2021
+* Role involved the management and preparation of tutoring materials in collaboration with a diverse team of experts in criminology, policing, online crime, human trafficking, and the criminal justice system.
+* Responsibilities included tutoring classes, facilitating student learning, and providing academic support to undergraduate students across a range of criminology and criminal justice topics.
+* This role also required close engagement with students to support their academic development and understanding of complex subject matter.
+
+**Network Operations and Maintenance Technician**
+University College Cork - IT Services
+2019-2021
+* Provided On-site support, planning and maintenance towards the upkeep of UCC's IT network infrastructure, including the upgrading of legacy systems and satellite locations.
+
+**Technical Support**
+University College Cork - IT Services
+2017-2019
+* Student-employment role involving the technical and administrative assistance of UCC's staff IT support service.
+
+**Research Assistant**
+University College Cork - Department of Sociology and Criminology
+2017-2018
+* Assisted in the qualitative collection, processing, and analysis of focus-group discussion held during the 35th Meeting of the Interpol Specialists Group on Crimes Against Children between the 13th to 17th of November 2017. Lyon, France
+
+**Layout Editor and Illustrator**
+University College Cork - UCC Express Student Newspaper
+2014-2016
+* Tasked with the design and layout of the biweekly college newspaper, and ensuring the publication met the required standards and expectations needed for professional printing and student engagement.
+
+**Leisure Attendant**
+LeisureWork Gym and Pool - Cork city
+2008-2017
+* Pool and Gym attendant, conducting daily lifeguard duties, swim teaching, and cleaning duties.
+
+**Bartender**
+Hollyhill Inn Bar (Closed Down) - Hollyhill, Cork.
+2004-2008
+
+## PUBLICATIONS AND PRESENTATIONS
+
+* Hosford, K., 2025. Charting the scholarly waters of cyberterrorism and hacktivism research: A bibliometric analysis of academic output (2000-2020). *Information Security Journal: A Global Perspective* 0, 1-27. https://doi.org/10.1080/19393555.2025.2459741
+* Navigating Anomie: Barriers to Gender-Affirming Healthcare and Social Exclusion in Ireland (November-2024). Presentation given at the Queer Justice, Violence, Victimisation, and Protection in LGBT Communities Seminar, ISS21 Crime and Social Harms, University College Cork
+* Barriers to HIV Blood Testing for Transgender People in Ireland (October-2024). Presentation given at Cork Fast Track Cities 2030 Consultation: The Path to Ending the HIV Epidemic, Cork City Hall
+* Harmonizing Knowledge: Developing an Ontological Model for Enhanced Research Collaboration and Understanding of Ideologically Motivated Disruptive Cyber-Events (June-2024). Presentation given at the North South Criminology Conference, Ulster University and Queens University Belfast
+* Hosford, K., 2024. *Mapping the Production of Knowledge of Cyberterrorism and Hacktivism Research Using an Integrated Bibliometric and Content Analysis Framework* (Doctorate Thesis). University College Cork, Cork, Ireland
+* Hosford, K., Aqil, N., Windle, J., Gundur, R.V., Allum, F., 2021. Who researches organised crime? A review of organised crime authorship trends (2004-2019). *Trends Organ Crim*. https://doi.org/10.1007/s12117-021-09437-8
+* Hosford, K., 2021. Hacker Generations, Subcultures and Hat Colours: A More Practical Approach to Classification, in: *Cybercrime in Action an International Approach to Cybercrime*. Nobel, Ch. 9.
+* Lynch, O., Ahmed, Y., Russell, H., Hosford, K., 2020. *Reflections on Irish Criminology: Conversations with Criminologists*. Palgrave Macmillan. https://doi.org/10.1007/978-3-030-60593-3
+* Lynch, O., Russell, H., Hosford, K., 2019. Conversations with Criminologists Podcast.
+
+## COMMUNITY ENGAGEMENT
+
+**Gender Rebels**
+Director Secretary and Chairperson
+2023-Present
+* As Chairperson and Director Secretary of Gender Rebels, a registered non-profit dedicated to empowering transgender, non-binary, and gender-diverse adults in Ireland, my role encompasses strategic leadership, governance oversight, and active community advocacy.
+* I lead organisational strategy, chair board meetings, ensure compliance with statutory obligations, and manage stakeholder relationships. My notable achievements so far include;
+    * Successfully registering Gender Rebels as a Non-profit Company Limited by Guarantee, significantly enhancing organisational structure and capacity.
+    * Launched two campaigns focused on improving and bringing awareness to the health and wellbeing of transgender adults in Ireland.
+    * Secured funding through successful applications including the International Trans Fund (ITF), Dormant Accounts Fund, and Cork City Council Small Scale Programme Grants.
+    * Expanded community outreach and fostered strategic partnerships with key local and national LGBTQI+ organisations, amplifying collective advocacy and service delivery.
+
+**Cork City LGBT+ InterAgency**
+Membership representing Gender Rebels
+2023-Present
+* Hosted by Cork City Council; the inter-agency group engages in monthly meetings that brings together a range of state and community partners to raise awareness and to enhance LGBT Inclusion at a local level.
+
+## SUCCESSFUL RESEARCH FUNDING
+
+**Amount: 1,500 euro**
+Collective Social Futures Interdisciplinary Research Fund
+Project: Building Inclusive Futures: Establishing a Trans Research Agenda through Collaborative Engagement in Ireland
+* Acting as Principle Investigator, this project seeks to establish a peer-driven research agenda for future research directives of the TRANSS UCC research unit within the ISS21 Genders, Sexualities and Families Cluster.
+
+## PROFESSIONAL AFFILIATIONS
+
+**TRANSS UCC**
+Ordinary Member
+2024-Present
+* Aligned within the ISS21 Genders, Sexualities and Families Research Cluster, TRANSS UCC was formed by and for trans researchers and ally researchers. The working groups mission is to address pressing issues impacting trans lives while challenging traditional academic frameworks that have historically excluded trans voices. TRANSS UCC prioritises trans-led research, ensuring that the perspectives, expertise, and lived experiences of trans scholars is central to work affecting the trans community.
+
+**ISS21 Crime and Social Harm**
+Contributing Member
+2024-Present
+* The ISS21 Crime and Social Harm (CSH) research cluster brings together researchers from across UCC who share an interest in critical and impactful research on crime and social harm. My key contribution has been the planning and execution of a public symposium titled 'Queer Justice: Violence, Victimisation, and Protection in LGBT+ Communities' held in University College Cork and hosting key experts in the area of LGBT rights and advocacy.
+
+**ISS21 Populism and the Rise of the Far-right**
+Contributing Member
+2024-Present
+* The ISS21 Populism and the Rise of the Far-right cluster brings together researchers, civil society organisations, and activists with an active interest in issues of racism, populism, and the rise of the far right in Ireland, across Europe and the globe.
+
+## REPORTS AND MEDIA ENGAGEMENT
+
+* The Current State of Transgender Healthcare in Ireland, *The Journal* (Contributor role as Chairperson of Gender Rebels)
+* How extensive is human trafficking for criminal activities here? *RTE Brainstorm* (Forthcoming-2025)
+* Windle, J., Sweeney, K., Hosford, K., 2025. How extensive is human trafficking for criminal activities here? *Brainstorm*. URL https://www.rte.ie/brainstorm/2025/0128/1492522-human-trafficking-ireland-exploitation-law/
+* Brennan, M., 2018. *Technical Report: Towards a Global Indicator on Unidentified Victims in Child Sexual Exploitation Material*. ECPAT Internationl. URL https://ecpat.org/resource/technical-report-towards-a-global-indicator-on-unidentified-victims-in-child-sexual-exploitation-material/ (Served as a Research Assistant)

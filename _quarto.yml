@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "Dr. Kev Hosford"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+editor: visual
+
