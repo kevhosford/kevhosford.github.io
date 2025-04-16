@@ -1,0 +1,9 @@
+
+p {
+  text-align: justify;
+}
+
+/* You can also target other elements */
+.justify-text {
+    text-align: justify;
+}

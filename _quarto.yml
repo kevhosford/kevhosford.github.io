@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Dr. Kev Hosford"
@@ -10,7 +11,9 @@ website:
       - about.qmd
 format:
   html:
-    theme: united
+    theme:
+      light: united
+      dark: solar
     css: styles.css
     toc: true
 

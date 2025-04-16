@@ -1,11 +1,12 @@
 ---
 title: "Curriculum Vitae"
 image: media/profile.jpeg
-toc: false
 about: 
   template: jolla
   image-shape: round
   image-width: 17em
+html:
+  css: styles.css
 ---
 
 **Dr. Kevin Hosford** (She/Her)\
