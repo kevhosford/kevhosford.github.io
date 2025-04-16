@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Curriculum Vitae.qmd
+      - text: "Gender Rebels"
+        href: https://genderrebels.ie # Add this
+  favicon: media/favicon.png
 format:
   html:
     theme:
