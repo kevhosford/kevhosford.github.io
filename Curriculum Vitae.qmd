@@ -8,8 +8,12 @@ about:
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/kev-hosford-b98a29319/
+    - text: Bluesky
+      href: https://bsky.app/profile/kevhosford.bsky.social
     - text: GitHub
       href: https://github.com/kevhosford
+    - text: ORCID
+      href: https://orcid.org/0000-0002-5883-6906
     - text: Email
       href: mailto:kevin.hosford@ucc.ie
 ---
